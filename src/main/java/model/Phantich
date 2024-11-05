@@ -1,0 +1,56 @@
+- Sản phẩm 
+	+ Mã sản phẩm 
+	+ Tên sản phẩm
+	+ Mã phân loại 
+	+ Giá nhập
+	+ Gía bán 
+	+ Số lượng
+	+ Mã Tác giả
+	+ Năm xuất bản 
+	+ Nhà xuất bản 
+
+- Tác giả 
+	+ Mã tác giả 
+	+ Tên tác giả 
+	+ Ngày sinh 
+	+ Số Sản Phẩm 
+
+- Phân loại 
+	+ Mã phân loại
+	+ Tên phân loại 
+
+- Khách hàng 
+	+ Mã khách hàng 
+	+ tài khoản
+	+ mật khẩu
+	+ tên khách hàng
+	+ giới tính
+	+ ngày sinh 
+	+ số điện thoại
+	+ email
+	+ địa chỉ 
+	+ địa chỉ nhận hàng
+	+ địa chỉ mua hàng
+	
+- Đơn hàng 
+	+ Mã đơn hàng 
+	+ tên đơn hàng 
+	+ địa chỉ người mua 
+	+ địa chỉ người nhận 
+	+ trạng thái : xác nhận , đang xử lí .....
+	+ hình thức thanh toán / cod / banking
+	+ trạng thái thanh toán 
+	+ số tiền thanh toán 
+	+ ngày đặt hàng 
+	+ ngày giao hàng 
+	
+- Chi tiết hóa đơn 
+	+ mã chi tiết đơn hàng 
+	+ đơn hàng 
+	+ mã sản phẩm 
+	+ số lượng 
+	+ giá bán 
+	+ giảm giá 
+	+ thuế vat
+	+ tổng thành tiền 
+	
